@@ -18,7 +18,7 @@ npm install
 
 ---
 
-# ▶️ How to Run Tests
+# How to Run Tests
 
 ### Open Cypress Test Runner (UI mode)
 
