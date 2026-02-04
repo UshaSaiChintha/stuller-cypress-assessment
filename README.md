@@ -182,9 +182,9 @@ cy.get(priceLocator)
 **Objective:** Backend rejects invalid cart operations.
 
 **Steps:**
-Set quantity = 0 
-Click on Add to Cart Button
-Intercept API and assert on api result
+- Set quantity = 0 
+- Click on Add to Cart Button
+- Intercept API and assert on api result
 
 ---
 
@@ -193,9 +193,9 @@ Intercept API and assert on api result
 **Objective:** UI displays validation feedback.
 
 **Steps:**
-Set quantity = 0 
-Click on Add to Cart Button
-Assert on UI front
+- Set quantity = 0 
+- Click on Add to Cart Button
+- Assert on UI front
 ```
 
 ---
@@ -234,13 +234,3 @@ README.md
 ```
 
 ---
-
-# Summary
-
-Framework demonstrates:
-
-- UI + API hybrid validation
-- Custom command design
-- Test isolation
-- Flakiness debugging
-- Strong assertion practices
